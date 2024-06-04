@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+  }
+  
+  table img {
+    width: 300px;
+    /* Cambia este valor según el tamaño deseado */
+    height: 400px;
+    /* Cambia este valor según el tamaño deseado */
+  }
